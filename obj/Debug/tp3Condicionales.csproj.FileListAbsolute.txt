@@ -1,0 +1,7 @@
+D:\Martin\INSTIUTTO IDRA\Introducción a la programación\TRABAJOS PRACTICOS\Trabajo practico-Variables\tp3Condicionales\tp3Condicionales\bin\Debug\tp3Condicionales.exe.config
+D:\Martin\INSTIUTTO IDRA\Introducción a la programación\TRABAJOS PRACTICOS\Trabajo practico-Variables\tp3Condicionales\tp3Condicionales\bin\Debug\tp3Condicionales.exe
+D:\Martin\INSTIUTTO IDRA\Introducción a la programación\TRABAJOS PRACTICOS\Trabajo practico-Variables\tp3Condicionales\tp3Condicionales\bin\Debug\tp3Condicionales.pdb
+D:\Martin\INSTIUTTO IDRA\Introducción a la programación\TRABAJOS PRACTICOS\Trabajo practico-Variables\tp3Condicionales\tp3Condicionales\obj\Debug\tp3Condicionales.csproj.AssemblyReference.cache
+D:\Martin\INSTIUTTO IDRA\Introducción a la programación\TRABAJOS PRACTICOS\Trabajo practico-Variables\tp3Condicionales\tp3Condicionales\obj\Debug\tp3Condicionales.csproj.CoreCompileInputs.cache
+D:\Martin\INSTIUTTO IDRA\Introducción a la programación\TRABAJOS PRACTICOS\Trabajo practico-Variables\tp3Condicionales\tp3Condicionales\obj\Debug\tp3Condicionales.exe
+D:\Martin\INSTIUTTO IDRA\Introducción a la programación\TRABAJOS PRACTICOS\Trabajo practico-Variables\tp3Condicionales\tp3Condicionales\obj\Debug\tp3Condicionales.pdb
